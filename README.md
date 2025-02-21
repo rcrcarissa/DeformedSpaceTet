@@ -82,11 +82,11 @@ python DeformedSpaceTet.py data/test1.h5 -o test1 -i -vtk
 ```
 There are two examples in the `data/` folder. `test1.h5` is a simple deformed space as shown below:
 
-<img src="figs/test1.png" alt="Test Example 1" width="300" />
+<img src="figs/test1.png" alt="Test Example 1" width="400" />
 
 `test2.h5` models a rotating circular field:
 
-<img src="figs/test2.png" alt="Test Example 2" width="250" />
+<img src="figs/test2.png" alt="Test Example 2" width="300" />
 
 ---
 
