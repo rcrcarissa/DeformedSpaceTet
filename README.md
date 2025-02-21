@@ -81,10 +81,12 @@ To export the tetrahedral mesh in `.vtu` format, use the `-vtk` flag.
 python DeformedSpaceTet.py data/test1.h5 -o test1 -i -vtk
 ```
 There are two examples in the `data/` folder. `test1.h5` is a simple deformed space as shown below:
-<img src="figs/test1.png" alt="Test Example 1" width="500" />
+
+<img src="figs/test1.png" alt="Test Example 1" width="300" />
 
 `test2.h5` models a rotating circular field:
-<img src="figs/test2.png" alt="Test Example 2" width="500" />
+
+<img src="figs/test2.png" alt="Test Example 2" width="250" />
 
 ---
 
