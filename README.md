@@ -93,4 +93,4 @@ Ren, Congrong, and Hanqi Guo.
 ---
 
 ## License
-Standard MIT disclaimer applies. See [LICENSE](https://github.com/rcrcarissa/DeformedSpaceTet/blob/main/LICENSE) for full text.
+Standard MIT disclaimer applies. See [LICENSE](https://github.com/rcrcarissa/DeformedSpaceTet/tree/main/blob/main/LICENSE) for full text.
