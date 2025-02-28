@@ -20,7 +20,6 @@ To run the meshing algorithm, the following packages are required:
 - [H5py](https://www.h5py.org)
 - [Shapely](https://shapely.readthedocs.io)
 - [NetworkX](https://networkx.github.io)
-- [Matplotlib](https://matplotlib.org)
 - [VTK](https://vtk.org)
 
 If you do not have these packages installed, use the following command:
