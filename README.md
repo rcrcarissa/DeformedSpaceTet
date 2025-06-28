@@ -92,7 +92,7 @@ There are two examples in the `data/` folder. `test1.h5` is a simple deformed sp
 ## Citation
 If you use this work, please cite:
 
-* Ren, C., Hager, R., Churchill, R. M., Mollén, A., Ku, S. H., Chang, C. S., & Guo, H. (2025, May). [Fast and Invertible Simplicial Approximation of Magnetic‐Following Interpolation for Visualizing Fusion Plasma Simulation Data](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70120). In Computer Graphics Forum (p. e70120).
+* Ren, C., Hager, R., Churchill, R. M., Mollén, A., Ku, S. H., Chang, C. S., & Guo, H. (2025, May). [Fast and Invertible Simplicial Approximation of Magnetic‐Following Interpolation for Visualizing Fusion Plasma Simulation Data](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70120). In *Computer Graphics Forum* (p. e70120).
 
 ---
 
